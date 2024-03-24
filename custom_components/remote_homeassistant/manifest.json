@@ -1,13 +1,14 @@
 {
   "domain": "remote_homeassistant",
-  "name": "Remote Home-Assistant",
+  "name": "Remote Home-Assistant - iTechstro version",
   "issue_tracker": "https://github.com/custom-components/remote_homeassistant/issues",
   "documentation": "https://github.com/custom-components/remote_homeassistant",
   "dependencies": ["http"],
   "config_flow": true,
   "codeowners": [
     "@lukas-hetzenecker",
-    "@postlund"
+    "@postlund",
+    "@gohyc"
   ],
   "requirements": [],
   "zeroconf": [
